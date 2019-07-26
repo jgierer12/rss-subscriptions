@@ -69,7 +69,7 @@ reader.
 ### Tech
 
 - [Daring Fireball](https://daringfireball.net/)
-- [Remy Sharp&#x27;s b:log](http://remysharp.com)
+- [Remy Sharp&#x27;s b:log](https://remysharp.com)
 - [Internet Health Report](https://internethealthreport.org)
 - [Charged](https://char.gd/)
 - [Chris Coyier](https://chriscoyier.net)

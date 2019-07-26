@@ -2,10 +2,11 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for accounts@jonas.gierer.xyz</title>
-    <dateCreated>Fri, 26 Jul 2019 12:30:57 -0500</dateCreated>
+    <dateCreated>Fri, 26 Jul 2019 17:15:01 -0500</dateCreated>
     <ownerEmail>accounts@jonas.gierer.xyz</ownerEmail>
   </head>
   <body>
+<outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/feed.xml" htmlUrl="https://remysharp.com"/>
 <outline text="Mozilla Hacks" title="Mozilla Hacks" type="rss" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
 <outline text="The Mozilla Blog" title="The Mozilla Blog" type="rss" xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
 <outline text="Internet Health Report" title="Internet Health Report" type="rss" xmlUrl="https://internethealthreport.org/feed/" htmlUrl="https://internethealthreport.org"/>
@@ -16,7 +17,6 @@
 <outline text="Figma Blog" title="Figma Blog" type="rss" xmlUrl="https://www.figma.com/blog/feed/atom.xml" htmlUrl="https://www.figma.com/"/>
 <outline text="Weird Fiction Review" title="Weird Fiction Review" type="rss" xmlUrl="http://weirdfictionreview.com/feed/" htmlUrl="http://weirdfictionreview.com"/>
 <outline text="24in48 Readathon" title="24in48 Readathon" type="rss" xmlUrl="https://24in48.com/feed/" htmlUrl="https://24in48.com"/>
-<outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/" htmlUrl="http://remysharp.com"/>
 <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="Feedbin" title="Feedbin" type="rss" xmlUrl="https://feedbin.com/blog/atom.xml" htmlUrl="https://feedbin.com"/>
 <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
@@ -103,7 +103,7 @@
     </outline>
     <outline text="Tech" title="Tech">
 <outline text="Daring Fireball" title="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
-<outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/" htmlUrl="http://remysharp.com"/>
+<outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/feed.xml" htmlUrl="https://remysharp.com"/>
 <outline text="Internet Health Report" title="Internet Health Report" type="rss" xmlUrl="https://internethealthreport.org/feed/" htmlUrl="https://internethealthreport.org"/>
 <outline text="Charged" title="Charged" type="rss" xmlUrl="http://char.gd/rss" htmlUrl="https://char.gd/"/>
 <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net"/>
