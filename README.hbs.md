@@ -26,6 +26,14 @@ E-Mail subscriptions :wink:.
 
 <!-- prettier-ignore-end -->
 
+## E-Mail newsletters
+
+The following newsletters don't have RSS feeds, so I'm subscribing to them
+through Feedbin's E-Mail newsletter support.
+
+- [Mozilla](https://www.mozilla.org/en-US/newsletter/)
+- [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
+
 ## Actions
 
 Feedbin supports actions, which allow you to further tweak your feeds based on

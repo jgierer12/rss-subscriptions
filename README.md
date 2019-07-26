@@ -62,7 +62,6 @@ E-Mail subscriptions :wink:.
 - [Feedbin](https://feedbin.com)
 - [1Password Blog](https://blog.1password.com/)
 - [Figma Blog](https://www.figma.com/)
-- [ProductHunt Weekly](https://www.kill-the-newsletter.com/)
 
 ### Reading
 
@@ -75,11 +74,17 @@ E-Mail subscriptions :wink:.
 - [Remy Sharp&#x27;s b:log](http://remysharp.com)
 - [Charged](https://char.gd/)
 - [Chris Coyier](https://chriscoyier.net)
-- [ProductHunt Weekly](https://www.kill-the-newsletter.com/)
-- [Mozilla](https://www.kill-the-newsletter.com/)
 
 
 <!-- prettier-ignore-end -->
+
+## E-Mail newsletters
+
+The following newsletters don't have RSS feeds, so I'm subscribing to them
+through Feedbin's E-Mail newsletter support.
+
+- [Mozilla](https://www.mozilla.org/en-US/newsletter/)
+- [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
 
 ## Actions
 

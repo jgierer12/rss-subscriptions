@@ -2,12 +2,10 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for accounts@jonas.gierer.xyz</title>
-    <dateCreated>Fri, 26 Jul 2019 11:10:25 -0500</dateCreated>
+    <dateCreated>Fri, 26 Jul 2019 11:53:44 -0500</dateCreated>
     <ownerEmail>accounts@jonas.gierer.xyz</ownerEmail>
   </head>
   <body>
-<outline text="Mozilla" title="Mozilla" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5qknbcxlbkvitogzwpfr.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-<outline text="ProductHunt Weekly" title="ProductHunt Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/pzfwkihzug5lxz0ta5er.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
 <outline text="ES.next News" title="ES.next News" type="rss" xmlUrl="http://feeds.feedburner.com/EsnextNews" htmlUrl="https://us12.campaign-archive.com/feed?u=d3a2c4d93441c84c0a1e6e808&amp;id=705caf4dc7"/>
 <outline text="Web Platform News" title="Web Platform News" type="rss" xmlUrl="https://webplatform.news/feed.xml" htmlUrl="https://webplatform.news/"/>
 <outline text="Xbox Live's Major Nelson" title="Xbox Live's Major Nelson" type="rss" xmlUrl="https://majornelson.com/feed/" htmlUrl="https://majornelson.com"/>
@@ -93,7 +91,6 @@
 <outline text="Feedbin" title="Feedbin" type="rss" xmlUrl="https://feedbin.com/blog/atom.xml" htmlUrl="https://feedbin.com"/>
 <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="Figma Blog" title="Figma Blog" type="rss" xmlUrl="https://www.figma.com/blog/feed/atom.xml" htmlUrl="https://www.figma.com/"/>
-<outline text="ProductHunt Weekly" title="ProductHunt Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/pzfwkihzug5lxz0ta5er.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
     </outline>
     <outline text="Reading" title="Reading">
 <outline text="Weird Fiction Review" title="Weird Fiction Review" type="rss" xmlUrl="http://weirdfictionreview.com/feed/" htmlUrl="http://weirdfictionreview.com"/>
@@ -104,8 +101,6 @@
 <outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/" htmlUrl="http://remysharp.com"/>
 <outline text="Charged" title="Charged" type="rss" xmlUrl="http://char.gd/rss" htmlUrl="https://char.gd/"/>
 <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net"/>
-<outline text="ProductHunt Weekly" title="ProductHunt Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/pzfwkihzug5lxz0ta5er.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-<outline text="Mozilla" title="Mozilla" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5qknbcxlbkvitogzwpfr.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
     </outline>
   </body>
 </opml>
