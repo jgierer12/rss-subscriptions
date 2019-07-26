@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "handlebars": "^4.1.2",
+    "opml-to-json": "^0.0.3",
+    "pify": "^4.0.1"
+  }
+}
