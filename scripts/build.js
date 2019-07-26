@@ -40,10 +40,7 @@ const writeResult = async res => {
 
 (async () => {
   try {
-    const [tags, template] = await Promise.all([
-      await getTags(),
-      await getTemplate(),
-    ]);
+    const [tags, template] = await Promise.all([getTags(), getTemplate()]);
     const res = await render(template, tags);
     await writeResult(res);
   } catch (err) {
