@@ -21,6 +21,7 @@ E-Mail subscriptions :wink:.
 - [CSS-Tricks](https://css-tricks.com)
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Codrops](https://tympanus.net/codrops)
+- [Mozilla Hacks](https://hacks.mozilla.org)
 - [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 - [Node Module Of The Week](http://nmotw.in/)
 - [ES.next News](https://us12.campaign-archive.com/feed?u&#x3D;d3a2c4d93441c84c0a1e6e808&amp;id&#x3D;705caf4dc7)
@@ -59,6 +60,7 @@ E-Mail subscriptions :wink:.
 
 ### Products
 
+- [The Mozilla Blog](https://blog.mozilla.org)
 - [Feedbin](https://feedbin.com)
 - [1Password Blog](https://blog.1password.com/)
 - [Figma Blog](https://www.figma.com/)
@@ -72,6 +74,7 @@ E-Mail subscriptions :wink:.
 
 - [Daring Fireball](https://daringfireball.net/)
 - [Remy Sharp&#x27;s b:log](http://remysharp.com)
+- [Internet Health Report](https://internethealthreport.org)
 - [Charged](https://char.gd/)
 - [Chris Coyier](https://chriscoyier.net)
 
@@ -83,7 +86,6 @@ E-Mail subscriptions :wink:.
 The following newsletters don't have RSS feeds, so I'm subscribing to them
 through Feedbin's E-Mail newsletter support.
 
-- [Mozilla](https://www.mozilla.org/en-US/newsletter/)
 - [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
 
 ## Actions

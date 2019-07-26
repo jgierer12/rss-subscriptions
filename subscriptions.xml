@@ -2,10 +2,13 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for accounts@jonas.gierer.xyz</title>
-    <dateCreated>Fri, 26 Jul 2019 11:53:44 -0500</dateCreated>
+    <dateCreated>Fri, 26 Jul 2019 12:30:57 -0500</dateCreated>
     <ownerEmail>accounts@jonas.gierer.xyz</ownerEmail>
   </head>
   <body>
+<outline text="Mozilla Hacks" title="Mozilla Hacks" type="rss" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
+<outline text="The Mozilla Blog" title="The Mozilla Blog" type="rss" xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
+<outline text="Internet Health Report" title="Internet Health Report" type="rss" xmlUrl="https://internethealthreport.org/feed/" htmlUrl="https://internethealthreport.org"/>
 <outline text="ES.next News" title="ES.next News" type="rss" xmlUrl="http://feeds.feedburner.com/EsnextNews" htmlUrl="https://us12.campaign-archive.com/feed?u=d3a2c4d93441c84c0a1e6e808&amp;id=705caf4dc7"/>
 <outline text="Web Platform News" title="Web Platform News" type="rss" xmlUrl="https://webplatform.news/feed.xml" htmlUrl="https://webplatform.news/"/>
 <outline text="Xbox Live's Major Nelson" title="Xbox Live's Major Nelson" type="rss" xmlUrl="https://majornelson.com/feed/" htmlUrl="https://majornelson.com"/>
@@ -53,6 +56,7 @@
 <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
 <outline text="Scott Hanselman" title="Scott Hanselman" type="rss" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
 <outline text="Codrops" title="Codrops" type="rss" xmlUrl="http://feeds2.feedburner.com/tympanus" htmlUrl="https://tympanus.net/codrops"/>
+<outline text="Mozilla Hacks" title="Mozilla Hacks" type="rss" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
 <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
 <outline text="Node Module Of The Week" title="Node Module Of The Week" type="rss" xmlUrl="https://nmotw.in/atom.xml" htmlUrl="http://nmotw.in/"/>
 <outline text="ES.next News" title="ES.next News" type="rss" xmlUrl="http://feeds.feedburner.com/EsnextNews" htmlUrl="https://us12.campaign-archive.com/feed?u=d3a2c4d93441c84c0a1e6e808&amp;id=705caf4dc7"/>
@@ -88,6 +92,7 @@
 <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="https://www.omgubuntu.co.uk/feed" htmlUrl="https://www.omgubuntu.co.uk"/>
     </outline>
     <outline text="Products" title="Products">
+<outline text="The Mozilla Blog" title="The Mozilla Blog" type="rss" xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
 <outline text="Feedbin" title="Feedbin" type="rss" xmlUrl="https://feedbin.com/blog/atom.xml" htmlUrl="https://feedbin.com"/>
 <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="Figma Blog" title="Figma Blog" type="rss" xmlUrl="https://www.figma.com/blog/feed/atom.xml" htmlUrl="https://www.figma.com/"/>
@@ -99,6 +104,7 @@
     <outline text="Tech" title="Tech">
 <outline text="Daring Fireball" title="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
 <outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/" htmlUrl="http://remysharp.com"/>
+<outline text="Internet Health Report" title="Internet Health Report" type="rss" xmlUrl="https://internethealthreport.org/feed/" htmlUrl="https://internethealthreport.org"/>
 <outline text="Charged" title="Charged" type="rss" xmlUrl="http://char.gd/rss" htmlUrl="https://char.gd/"/>
 <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net"/>
     </outline>
