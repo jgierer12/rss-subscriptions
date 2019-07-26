@@ -80,3 +80,38 @@ E-Mail subscriptions :wink:.
 
 
 <!-- prettier-ignore-end -->
+
+## Actions
+
+Feedbin supports actions, which allow you to further tweak your feeds based on
+simple rules.
+
+Since these can't be exported, I'll manually transcribe them here:
+
+### Hide Xbox game releases
+
+#### Article Matches Search
+
+```
+title:(Is Now Available)
+```
+
+#### Article is in Tag
+
+- [ ] Development
+- [ ] Entertainment
+- [ ] Linux
+- [ ] Products
+- [ ] Reading
+- [ ] Tech
+
+#### Article is in Feed
+
+- [ ] ...
+- [x] Xbox Live's Major Nelson
+- [ ] ...
+
+#### Actions
+
+- [x] Mark it as Read
+- [ ] Star it
