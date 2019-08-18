@@ -82,6 +82,8 @@ The following newsletters don't have RSS feeds, so I'm subscribing to them
 through Feedbin's E-Mail newsletter support.
 
 - [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
+- [Egghead Newsletter](https://egghead.io)
+- [Typewolf Tuesday](https://www.typewolf.com/newsletter)
 
 ## Actions
 
