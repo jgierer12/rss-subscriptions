@@ -38,6 +38,36 @@ simple rules.
 
 Since these can't be exported, I'll manually transcribe them here:
 
+### Hide sponsored posts
+
+#### Article Matches Search
+
+```
+sponsored post
+```
+
+#### Article is in Tag
+
+- [ ] Development
+- [ ] Entertainment
+- [ ] Linux
+- [ ] Products
+- [ ] Reading
+- [ ] Tech
+
+#### Article is in Feed
+
+- [ ] ...
+- [x] CSS-Tricks
+- [ ] ...
+- [x] Smashing Magazine
+- [ ] ...
+
+#### Actions
+
+- [x] Mark it as Read
+- [ ] Star it
+
 ### Hide Xbox game releases
 
 #### Article Matches Search
