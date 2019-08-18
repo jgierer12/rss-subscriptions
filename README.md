@@ -32,7 +32,7 @@ reader.
 - [Zach Leatherman](https://www.zachleat.com/web/)
 - [Ali Spittel](https://dev.to/aspittel)
 - [Overreacted](https://overreacted.io)
-- [Chris Biscardi](https://www.christopherbiscardi.com/)
+- [Chris Biscardi](https://www.christopherbiscardi.com)
 - [Max Stoiber](https://mxstbr.com/thoughts)
 - [Kent C. Dodds](https://kentcdodds.com)
 - [Jon Kuperman](https://jonkuperman.com)
@@ -68,7 +68,6 @@ reader.
 
 ### Tech
 
-- [Daring Fireball](https://daringfireball.net/)
 - [Remy Sharp&#x27;s b:log](https://remysharp.com)
 - [Internet Health Report](https://internethealthreport.org)
 - [Charged](https://char.gd/)
