@@ -30,22 +30,57 @@ reader.
 - [GatsbyJS Blog](https://www.gatsbyjs.org)
 - [Sophie Alpert](http://sophiebits.com/)
 - [Zach Leatherman](https://www.zachleat.com/web/)
+- [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
+- [Steve Schoger](https://www.youtube.com/channel/UCxqiDtkXtOCNJdckODHk9YA)
 - [Ali Spittel](https://dev.to/aspittel)
+- [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
+- [Gatsby](https://www.youtube.com/channel/UCjnp770qk7ujOq8Q9wiC82w)
+- [Heydon Pickering](https://www.youtube.com/channel/UC2FcFrXxhKDjC6LymB0jylQ)
 - [Overreacted](https://overreacted.io)
 - [Chris Biscardi](https://www.christopherbiscardi.com)
 - [Max Stoiber](https://mxstbr.com/thoughts)
 - [Kent C. Dodds](https://kentcdodds.com)
+- [Kitze](https://www.youtube.com/channel/UCP7W-OoVKoqS4BtyHu5eKxg)
 - [Jon Kuperman](https://jonkuperman.com)
 - [Kyle Shevlin](http://github.com/dylang/node-rss)
 - [Dimitrios Lytras](https://dimitrioslytras.com)
 - [A List Apart](https://alistapart.com)
 - [Frontend Focus](https://frontendfoc.us/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
+- [Ameer Ashhab](https://www.youtube.com/channel/UCfO5DDW9acS8nRjQlPQ0D1w)
+- [Byteconf](https://www.youtube.com/channel/UC046lFvJZhiwSRWsoH8SFjg)
+- [Emma Wedekind](https://www.youtube.com/channel/UCw7tRECQrNixDvSvL5NKYqw)
+- [Sw yx](https://www.youtube.com/channel/UCzJpE2zKwAFZ8JwMerlNquw)
 
 ### Entertainment
 
-- [Xbox Live&#x27;s Major Nelson](https://majornelson.com)
+- [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
+- [Corridor](https://www.youtube.com/channel/UCsn6cjffsvyOZCZxvGoJxGg)
+- [Corridor Crew](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ)
+- [Alex (frenchguycooking)](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A)
+- [Nerdwriter1](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg)
+- [Lil Dicky](https://www.youtube.com/channel/UC8rVJyj4zE0S9-sccMLifIA)
+- [ANDREW HUANG](https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g)
+- [TheOdd1sOut](https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ)
+- [Cinema Strikes Back](https://www.youtube.com/channel/UCPiI104i7lyG--fkr3LZTtA)
+- [Kitze](https://www.youtube.com/channel/UCP7W-OoVKoqS4BtyHu5eKxg)
 - [Redanian Intelligence](https://redanianintelligence.com)
+
+### Gaming
+
+- [Game Maker&#x27;s Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
+- [Cyberpunk 2077](https://www.youtube.com/channel/UC4zyoIAzmdsgpDZQfO1-lSA)
+- [Digital Foundry](https://www.youtube.com/channel/UC9PBzalIcEQCsiIkq36PyUA)
+- [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ)
+- [ACG](https://www.youtube.com/channel/UCK9_x1DImhU-eolIay5rb2Q)
+- [Xbox Live&#x27;s Major Nelson](https://majornelson.com)
+- [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q)
+- [Raycevick](https://www.youtube.com/channel/UC1JTQBa5QxZCpXrFSkMxmPw)
+- [Skill Up](https://www.youtube.com/channel/UCZ7AeeVbyslLM_8-nVy2B8Q)
+- [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw)
+- [Laymen Gaming](https://www.youtube.com/channel/UCwpmyAEOxIFmiXHFk4XbLMA)
+- [CD PROJEKT RED](https://www.youtube.com/channel/UCuCtanBJXOPAEIAUXf9944g)
+- [Gamesground](https://www.youtube.com/channel/UCFquxBWD0TBKeJLELMhNa6w)
 
 ### Linux
 
@@ -53,27 +88,83 @@ reader.
 - [Georges Stavracas](https://feaneron.com)
 - [Stable Updates - Manjaro Linux Forum](https://forum.manjaro.org/c/announcements/stable-updates)
 - [OMG! Ubuntu!](https://www.omgubuntu.co.uk)
+- [InfinitelyGalactic](https://www.youtube.com/channel/UC3jSNmKWYA04R47fDcc1ImA)
+- [Georges Basile Stavracas Neto](https://www.youtube.com/channel/UC5Qw7uMu8_QMJHBw3mQJ62w)
+- [Louis Weddall](https://www.youtube.com/channel/UCdX7SRmEmX9ttoJk41zPsbA)
+- [Manjaro Linux](https://www.youtube.com/channel/UCdGFLV7h9RGeTUX7wa5rqGw)
+
+### Music
+
+- [Madeon](https://www.youtube.com/channel/UCqMDNf3Pn5L7pcNkuSEeO3w)
+- [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA)
+- [Marti Fischer](https://www.youtube.com/channel/UC78yJH3WrmLE6AyL0OgPV7g)
+- [Lil Dicky](https://www.youtube.com/channel/UC8rVJyj4zE0S9-sccMLifIA)
+- [ANDREW HUANG](https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g)
+- [Porter Robinson](https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew)
+- [Green Day](https://www.youtube.com/channel/UCqC_GY2ZiENFz2pwL0cSfAw)
+- [Virtual Riot](https://www.youtube.com/channel/UCVtJOq_ziepf5MpjsTWxJeg)
+- [MEUTE](https://www.youtube.com/channel/UCY3cAFsquIk7VGMuk-V8S3g)
+- [ANGEMI](https://www.youtube.com/channel/UCYVoCTR1HQuVC93K_fqf_9w)
+- [Avicii](https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg)
+- [Dave Wave](https://www.youtube.com/channel/UCnLFGBfJj_DdkWxBh6QBjRA)
+- [DROELOE](https://www.youtube.com/channel/UCc-HpMqHY3VjptiG18JExNw)
+- [Ekali](https://www.youtube.com/channel/UCaMh8ii0gfI8UKAu1VqzYIA)
+- [Flume](https://www.youtube.com/channel/UCXAhoI7XO2kafTMjocm0jCg)
+- [ILLENIUM](https://www.youtube.com/channel/UCv0tIDoaBZCTXQvVO4zosng)
+- [Joyner Lucas](https://www.youtube.com/channel/UCUebubwSuTHfHjWJI4gCS9A)
+- [Mike Posner](https://www.youtube.com/channel/UCTaevJgpY78By0ELxeJmQpA)
+- [NF](https://www.youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w)
+- [OVERWERK](https://www.youtube.com/channel/UCJPp8C9j1vIUWA4dSksfZ0g)
+- [REZZ](https://www.youtube.com/channel/UCMcWPM9eOz9Dsn7YwAlpOoQ)
+- [Sidewalk Talk EDM](https://www.youtube.com/channel/UCQ0YTHu0gr8tgyUqs-2VNcA)
+- [SLANDER](https://www.youtube.com/channel/UC_D7aoxoyj5drj_1PKQNyMw)
+- [TheFatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
 
 ### Products
 
-- [The Mozilla Blog](https://blog.mozilla.org)
+- [Cyberpunk 2077](https://www.youtube.com/channel/UC4zyoIAzmdsgpDZQfO1-lSA)
+- [Firefox](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw)
 - [Feedbin](https://feedbin.com)
+- [Xbox Live&#x27;s Major Nelson](https://majornelson.com)
 - [DuckDuckGo Blog](https://spreadprivacy.com/)
 - [1Password Blog](https://blog.1password.com/)
 - [Figma Blog](https://www.figma.com/)
+- [CD PROJEKT RED](https://www.youtube.com/channel/UCuCtanBJXOPAEIAUXf9944g)
 
 ### Reading
 
 - [Weird Fiction Review](http://weirdfictionreview.com)
 - [24in48 Readathon](https://24in48.com)
 
+### Science
+
+- [engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
+- [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
+- [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+- [SmarterEveryDay](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+- [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
+- [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA)
+- [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
+- [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g)
+
 ### Tech
 
+- [The Mozilla Blog](https://blog.mozilla.org)
 - [Remy Sharp&#x27;s b:log](https://remysharp.com)
+- [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
+- [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)
 - [Internet Health Report](https://internethealthreport.org)
 - [DuckDuckGo Blog](https://spreadprivacy.com/)
+- [InfinitelyGalactic](https://www.youtube.com/channel/UC3jSNmKWYA04R47fDcc1ImA)
 - [Charged](https://char.gd/)
 - [Chris Coyier](https://chriscoyier.net)
+- [Mozilla](https://www.youtube.com/channel/UCajipi80aORRDz6gZ8ZyCWw)
+
+### Other
+
+- [lost design](https://www.youtube.com/channel/UCZLC4DotxlKo9AO4w26Klow)
+- [Jbo FPV](https://www.youtube.com/channel/UCHJUef9kwIEdBlbTINIdMBA)
 
 
 <!-- prettier-ignore-end -->
