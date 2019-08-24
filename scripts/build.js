@@ -16,7 +16,20 @@ const getTags = async () => {
   const opml = await readFile(subscriptionsFile);
   const json = await opmlToJson(opml.toString());
 
-  return json.children.filter(item => !item.hasOwnProperty(`#type`));
+  let tags = json.children.filter(item => item.hasOwnProperty(`children`));
+  const feeds = json.children.filter(item => item[`#type`] === `feed`);
+  const untaggedFeeds = feeds.filter(
+    feed => !tags.some(i => i.children.find(j => j.xmlurl === feed.xmlurl)),
+  );
+
+  if (untaggedFeeds.length > 0) {
+    tags.push({
+      title: `Other`,
+      children: untaggedFeeds,
+    });
+  }
+
+  return tags;
 };
 
 const getTemplate = async () => {
