@@ -58,6 +58,7 @@ reader.
 
 - [The Mozilla Blog](https://blog.mozilla.org)
 - [Feedbin](https://feedbin.com)
+- [DuckDuckGo Blog](https://spreadprivacy.com/)
 - [1Password Blog](https://blog.1password.com/)
 - [Figma Blog](https://www.figma.com/)
 
@@ -70,6 +71,7 @@ reader.
 
 - [Remy Sharp&#x27;s b:log](https://remysharp.com)
 - [Internet Health Report](https://internethealthreport.org)
+- [DuckDuckGo Blog](https://spreadprivacy.com/)
 - [Charged](https://char.gd/)
 - [Chris Coyier](https://chriscoyier.net)
 
@@ -84,6 +86,9 @@ through Feedbin's E-Mail newsletter support.
 - [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
 - [Egghead Newsletter](https://egghead.io)
 - [Typewolf Tuesday](https://www.typewolf.com/newsletter)
+- Kent C. Dodds<br/><small>_Newsletter excluding blog posts (since those are
+  taken directly from RSS). Unfortunately I don't remember exactly how I signed
+  up for this._</small>
 
 ## Actions
 

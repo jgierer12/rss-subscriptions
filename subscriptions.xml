@@ -2,10 +2,11 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for accounts@jonas.gierer.xyz</title>
-    <dateCreated>Sun, 18 Aug 2019 07:20:19 -0500</dateCreated>
+    <dateCreated>Sat, 24 Aug 2019 10:18:14 -0500</dateCreated>
     <ownerEmail>accounts@jonas.gierer.xyz</ownerEmail>
   </head>
   <body>
+<outline text="DuckDuckGo Blog" title="DuckDuckGo Blog" type="rss" xmlUrl="https://spreadprivacy.com/rss/" htmlUrl="https://spreadprivacy.com/"/>
 <outline text="Frontend Focus" title="Frontend Focus" type="rss" xmlUrl="https://frontendfoc.us/rss/17omif0p" htmlUrl="https://frontendfoc.us/"/>
 <outline text="Node Module Of The Week" title="Node Module Of The Week" type="rss" xmlUrl="https://nmotw.in/atom.xml" htmlUrl="http://nmotw.in/"/>
 <outline text="Max Stoiber" title="Max Stoiber" type="rss" xmlUrl="https://mxstbr.com/feed.json/" htmlUrl="https://mxstbr.com/thoughts"/>
@@ -93,6 +94,7 @@
     <outline text="Products" title="Products">
 <outline text="The Mozilla Blog" title="The Mozilla Blog" type="rss" xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
 <outline text="Feedbin" title="Feedbin" type="rss" xmlUrl="https://feedbin.com/blog/atom.xml" htmlUrl="https://feedbin.com"/>
+<outline text="DuckDuckGo Blog" title="DuckDuckGo Blog" type="rss" xmlUrl="https://spreadprivacy.com/rss/" htmlUrl="https://spreadprivacy.com/"/>
 <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="Figma Blog" title="Figma Blog" type="rss" xmlUrl="https://www.figma.com/blog/feed/atom.xml" htmlUrl="https://www.figma.com/"/>
     </outline>
@@ -103,6 +105,7 @@
     <outline text="Tech" title="Tech">
 <outline text="Remy Sharp's b:log" title="Remy Sharp's b:log" type="rss" xmlUrl="https://remysharp.com/feed.xml" htmlUrl="https://remysharp.com"/>
 <outline text="Internet Health Report" title="Internet Health Report" type="rss" xmlUrl="https://internethealthreport.org/feed/" htmlUrl="https://internethealthreport.org"/>
+<outline text="DuckDuckGo Blog" title="DuckDuckGo Blog" type="rss" xmlUrl="https://spreadprivacy.com/rss/" htmlUrl="https://spreadprivacy.com/"/>
 <outline text="Charged" title="Charged" type="rss" xmlUrl="http://char.gd/rss" htmlUrl="https://char.gd/"/>
 <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net"/>
     </outline>

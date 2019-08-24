@@ -30,6 +30,9 @@ through Feedbin's E-Mail newsletter support.
 - [ProductHunt Weekly](https://www.producthunt.com/newsletter/weekly)
 - [Egghead Newsletter](https://egghead.io)
 - [Typewolf Tuesday](https://www.typewolf.com/newsletter)
+- Kent C. Dodds<br/><small>_Newsletter excluding blog posts (since those are
+  taken directly from RSS). Unfortunately I don't remember exactly how I signed
+  up for this._</small>
 
 ## Actions
 
