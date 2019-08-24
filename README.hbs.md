@@ -15,7 +15,7 @@ reader.
 ### {{this.title}}
 
 {{#each this.children}}
-- [{{this.title}}]({{this.htmlurl}})
+- [![](https://www.google.com/s2/favicons?domain={{this.htmlurl}}) {{this.title}}]({{this.htmlurl}})
 {{/each}}
 
 {{/each}}
